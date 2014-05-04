@@ -1,0 +1,17 @@
+import array
+import cv
+
+capture = cv.CaptureFromCAM(0)
+cv.NamedWindow('w1',cv.CV_WINDOW_AUTOSIZE)
+
+frame = cv.QueryFrame(capture)
+
+framestr = frame.tostring()
+
+framearray = array.array('B',framestr)
+
+image = fromarray(framearray)
+
+cv.ShowImage('w1',image)
+
+

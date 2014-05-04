@@ -1,0 +1,9 @@
+('/home/sarang/Desktop/VideoChat/build/Nice/Nice',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1399234937)
