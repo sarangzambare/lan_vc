@@ -1,7 +1,7 @@
 # Simple application for LAN VideoChat using TCP sockets.
 ## Author: Sarang Zambare
 
-The main of making this program is educational. At the Indian Institute of Technology,Bombay, IP addresses
+The aim of making this program is educational. At the Indian Institute of Technology,Bombay, IP addresses
 are distributed according to room numbers. This fact can be exploited into making a program where-in the the student can enter
 the room number of his/her friend and start a video chat. 
 
