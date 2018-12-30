@@ -7,7 +7,8 @@ the room number of his/her friend and start a video chat.
 
 Though this sounds straightforward, in reality its not possible if the reciever has his/her firewall turned on. :(
 
-The main aim of this project was to explore ways to converting video frame data into string/bytes and to transfer the same over
+
+The main aim of this project was to learn about the TCP and UDP protocols, and implementing the socket class in Java, also explore ways of converting video frame data into string/bytes and to transfer the same over
 TCP and UDP protocols.
 
 UDP turned out to give a much more smooth video frame-rate (yet nowhere close to what skype offers, obviously).
